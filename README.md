@@ -38,6 +38,7 @@
 | [0206-reverse-linked-list](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -116,6 +117,7 @@
 | [0050-powx-n](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Matrix
