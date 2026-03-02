@@ -55,6 +55,7 @@
 | [0724-find-pivot-index](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1572-matrix-diagonal-sum](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -99,6 +100,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 ## String
 |  |
