@@ -28,6 +28,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0283-move-zeroes](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -47,6 +48,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
