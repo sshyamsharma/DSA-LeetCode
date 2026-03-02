@@ -121,6 +121,7 @@
 | [0125-valid-palindrome](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0141-linked-list-cycle](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
@@ -169,9 +171,11 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
