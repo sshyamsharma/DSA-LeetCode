@@ -36,6 +36,7 @@
 | [0206-reverse-linked-list](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -70,6 +71,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1572-matrix-diagonal-sum](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | [0050-powx-n](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Matrix
 |  |
 | ------- |
@@ -172,6 +175,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0054-spiral-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Counting
 |  |
 | ------- |
@@ -184,6 +188,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0622-design-circular-queue) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Tree
 |  |
 | ------- |
