@@ -20,6 +20,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
@@ -36,6 +37,7 @@
 | [0042-trapping-rain-water](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
@@ -51,6 +53,7 @@
 | [0283-move-zeroes](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
