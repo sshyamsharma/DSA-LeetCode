@@ -50,6 +50,7 @@
 | [0054-spiral-matrix](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0169-majority-element](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
@@ -123,6 +124,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
 ## Design
 |  |
@@ -136,11 +138,13 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
@@ -150,4 +154,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0054-spiral-matrix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
