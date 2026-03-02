@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0011-container-with-most-water) |
+| [0074-search-a-2d-matrix](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -36,6 +37,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -52,5 +54,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
