@@ -115,6 +115,7 @@
 | [0009-palindrome-number](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Matrix
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0258-add-digits) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Counting
 |  |
@@ -218,4 +220,8 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
