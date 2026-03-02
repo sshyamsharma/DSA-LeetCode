@@ -30,6 +30,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1672-richest-customer-wealth](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0724-find-pivot-index) |
+## Sliding Window
+|  |
+| ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
