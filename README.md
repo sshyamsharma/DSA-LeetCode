@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
@@ -56,4 +57,8 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
