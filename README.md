@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0901-online-stock-span](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -20,6 +21,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
@@ -83,4 +85,12 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
