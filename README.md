@@ -9,6 +9,7 @@
 | [0141-linked-list-cycle](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -58,6 +59,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0739-daily-temperatures) |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -164,4 +167,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
