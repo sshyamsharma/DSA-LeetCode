@@ -14,6 +14,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -58,6 +60,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
 |  |
