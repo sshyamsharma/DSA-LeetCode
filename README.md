@@ -80,6 +80,7 @@
 | [0739-daily-temperatures](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1572-matrix-diagonal-sum](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -114,6 +115,7 @@
 | [0704-binary-search](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1095-find-in-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -245,4 +247,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0258-add-digits) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
