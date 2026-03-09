@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0027-remove-element) |
@@ -191,6 +193,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0242-valid-anagram) |
