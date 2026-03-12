@@ -7,13 +7,12 @@ class Solution {
         while(j < n){
             if(nums[j] == 1){
                 current_count++;
-                j++;
             }else{
-            j++;
-            current_count = 0;
+                max = Math.max(current_count,max);
+                current_count = 0;
             }
-            max = Math.max(current_count,max);
+            j++;
         }
-        return max;
+        return Math.max(max,current_count);
     }
 }
