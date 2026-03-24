@@ -95,6 +95,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1929-concatenation-of-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -231,6 +232,7 @@
 | [0258-add-digits](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0867-transpose-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1929-concatenation-of-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 ## Counting
 |  |
 | ------- |
