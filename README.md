@@ -85,6 +85,7 @@
 | [0739-daily-temperatures](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1095-find-in-mountain-array) |
@@ -156,6 +157,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 ## String
@@ -225,6 +227,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0867-transpose-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Counting
 |  |
