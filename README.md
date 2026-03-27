@@ -75,6 +75,7 @@
 | [0162-find-peak-element](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0283-move-zeroes) |
@@ -133,6 +134,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -185,6 +187,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -192,6 +195,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
