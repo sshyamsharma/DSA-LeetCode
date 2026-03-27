@@ -81,6 +81,7 @@
 | [0485-max-consecutive-ones](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0704-binary-search) |
@@ -180,6 +181,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -217,6 +219,7 @@
 | [0242-valid-anagram](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
