@@ -104,6 +104,7 @@
 | [1672-richest-customer-wealth](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1095-find-in-mountain-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -268,6 +270,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Queue
 |  |
 | ------- |
