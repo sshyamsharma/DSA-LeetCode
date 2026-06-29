@@ -143,6 +143,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0441-arranging-coins](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -172,6 +173,7 @@
 | [0258-add-digits](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0326-power-of-three) |
+| [0441-arranging-coins](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0441-arranging-coins) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Matrix
