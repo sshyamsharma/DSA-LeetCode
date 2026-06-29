@@ -4,7 +4,7 @@ class Solution {
         long end = n;
         while(start <= end){
             long mid = start + (end - start)/2;
-            if(mid == n / mid && n % mid == 0){
+            if(mid == n / mid){
                 return (int)mid;
             }else if(mid > n / mid){
                 end  = mid - 1;
