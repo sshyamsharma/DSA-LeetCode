@@ -84,6 +84,7 @@
 | [0485-max-consecutive-ones](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -144,6 +145,7 @@
 | [0268-missing-number](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sshyamsharma/DSA-LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
