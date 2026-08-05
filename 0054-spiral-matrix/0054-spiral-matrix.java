@@ -1,40 +1,36 @@
 class Solution {
-    public List<Integer> spiralOrder(int[][] matrix) {
+    public List<Integer> spiralOrder(int[][] mat) {
         List<Integer> result=new ArrayList<>();
-        int startRow=0;
-        int endRow=matrix.length-1;
-        int startcol=0;
-        int endcol=matrix[0].length-1;
-
-        while(startRow<=endRow&&startcol<=endcol){
-            //top
-            for(int j=startcol;j<=endcol;j++){
-                result.add(matrix[startRow][j]);
+        int m = mat.length;
+        int n = mat[0].length;
+        int firstRow = 0;
+        int lastRow = m - 1;
+        int firstCol = 0;
+        int lastCol = n - 1;
+        while(firstRow <= lastRow && firstCol <= lastCol){
+            //Right
+            for(int j = firstCol;j<=lastCol;j++){
+                result.add(mat[firstRow][j]);
             }
-            //right
-            for(int i=startRow+1;i<=endRow;i++){
-                result.add(matrix[i][endcol]);
+            firstRow++;
+            if(firstRow > lastRow || firstCol > lastCol) break;
+            //Down
+            for(int i = firstRow;i<=lastRow;i++){
+                result.add(mat[i][lastCol]);
             }
-            //bottom
-            for(int j=endcol-1;j>=startcol;j--){
-                if(startRow==endRow){
-                    break;
-                }
-                result.add(matrix[endRow][j]);
-            }
+            lastCol--;
+            if(firstRow > lastRow || firstCol > lastCol) break;
             //left
-            for(int i=endRow-1;i>=startRow+1;i--){
-                if(startcol==endcol){
-                    break;
-                }
-                result.add(matrix[i][startcol]);
+            for(int j = lastCol;j>=firstCol;j--){
+                result.add(mat[lastRow][j]);
             }
-            startRow++;
-            endRow--;
-            startcol++;
-            endcol--;
+            lastRow--;
+            if(firstRow > lastRow || firstCol > lastCol) break;
+            for(int i = lastRow;i>=firstRow;i--){
+                result.add(mat[i][firstCol]);
+            }
+            firstCol++;
         }
-        System.out.println();
         return result;
     }
 }
